@@ -9,3 +9,7 @@
 *.aux
 *.synctex(busy)
 *.out
+
+# The reviewed PDF is a distributable artifact.
+!cv.pdf
+__pycache__/

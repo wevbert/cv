@@ -1,0 +1,271 @@
+{
+  "_id": "curriculumVitae",
+  "_type": "curriculumVitae",
+  "certifications": [
+    {
+      "_id": "demo-cert-1",
+      "issuingOrganization": "(ISC)2",
+      "title": "(ISC)2 Certified Information Systems Security Professional (CISSP)",
+      "verificationUrl": null
+    },
+    {
+      "_id": "demo-cert-2",
+      "issuingOrganization": "(ISC)2",
+      "title": "(ISC)2 Certified Cloud Security Professional (CCSP)",
+      "verificationUrl": null
+    },
+    {
+      "_id": "demo-cert-3",
+      "issuingOrganization": "Google Cloud",
+      "title": "Google Cloud Professional Security Engineer",
+      "verificationUrl": null
+    },
+    {
+      "_id": "demo-cert-4",
+      "issuingOrganization": "PECB",
+      "title": "PECB ISO/IEC 27001:2022 Lead Implementer",
+      "verificationUrl": null
+    },
+    {
+      "_id": "demo-cert-5",
+      "issuingOrganization": "(ISC)2",
+      "title": "(ISC)2 Systems Security Certified Practitioner (SSCP)",
+      "verificationUrl": null
+    },
+    {
+      "_id": "demo-cert-6",
+      "issuingOrganization": "EC-Council",
+      "title": "EC-Council Certified SOC Analyst",
+      "verificationUrl": null
+    },
+    {
+      "_id": "demo-cert-7",
+      "issuingOrganization": "(ISC)2",
+      "title": "(ISC)2 Certified in Cybersecurity (CC)",
+      "verificationUrl": null
+    },
+    {
+      "_id": "demo-cert-8",
+      "issuingOrganization": "CompTIA",
+      "title": "CompTIA Security+",
+      "verificationUrl": null
+    }
+  ],
+  "education": [
+    {
+      "_key": "msc",
+      "_type": "cvEducation",
+      "institution": "Kwame Nkrumah University of Science & Technology",
+      "note": "In progress",
+      "period": "Expected Nov 2026",
+      "qualification": "MSc Cyber Security & Digital Forensics"
+    },
+    {
+      "_key": "bsc",
+      "_type": "cvEducation",
+      "institution": "Ghana Communication Technology University",
+      "note": "Gold Fields Ghana Foundation Scholar",
+      "period": "2016 - 2020",
+      "qualification": "BSc Telecommunication Engineering (Honors)"
+    },
+    {
+      "_key": "banking",
+      "_type": "cvEducation",
+      "institution": "Access Bank, The Learning Institute, Lagos",
+      "note": "Completed with Distinction; Associate Chartered Banker (ACIB), Chartered Institute of Bankers, Nigeria",
+      "period": "2022",
+      "qualification": "School of Banking Excellence"
+    }
+  ],
+  "experience": [
+    {
+      "_key": "access-manager",
+      "_type": "cvRole",
+      "highlights": [
+        "Promoted following an A Star performance rating for 2025; retain leadership of the eight-member SOC while directing security engineering and architecture.",
+        "Designed an Enterprise Security Architecture Framework being adopted across the bank to standardize security reviews, project approvals, solution design and regulatory alignment.",
+        "Led deployments of Infoblox DNS security and Zero Networks microsegmentation, strengthening protection against malicious domains and lateral movement.",
+        "Support cybersecurity investment planning, ISO/IEC 27001 certification and PCI DSS compliance through control design, audit preparation and remediation."
+      ],
+      "location": "Accra, Ghana",
+      "organization": "Access Bank (Ghana) Plc",
+      "period": "Apr 2026 - Present",
+      "title": "Manager, Security Engineering & Architecture"
+    },
+    {
+      "_key": "access-team-lead",
+      "_type": "cvRole",
+      "highlights": [
+        "Led an eight-person team delivering 24/7 security operations across Ghana and West African subsidiaries, covering hiring, performance, vendor coordination and operational resilience.",
+        "Led CrowdStrike Falcon deployment across approximately 1,359 endpoints, improving endpoint visibility, malware prevention, incident response and audit readiness.",
+        "Directed implementation of Seceon aiSIEM and CimTrak file-integrity monitoring, coordinating technology teams, vendors, regulators and senior stakeholders.",
+        "Presented significant incidents, operational performance and investment recommendations to executive and board-level stakeholders; supported ISO/IEC 27001, PCI DSS, SWIFT CSP and Bank of Ghana compliance."
+      ],
+      "location": "Accra, Ghana",
+      "organization": "Access Bank (Ghana) Plc",
+      "period": "Feb 2023 - Mar 2026",
+      "title": "Team Lead, Security Operations"
+    },
+    {
+      "_key": "access-analyst",
+      "_type": "cvRole",
+      "highlights": [
+        "Investigated more than 1,000 security alerts monthly, assessed vulnerabilities across over 200 systems, and coordinated incident response and remediation with technology stakeholders."
+      ],
+      "location": "Accra, Ghana",
+      "organization": "Access Bank (Ghana) Plc",
+      "period": "Aug 2022 - Feb 2023",
+      "title": "Security Operations Center Analyst"
+    },
+    {
+      "_key": "access-digital",
+      "_type": "cvRole",
+      "highlights": [
+        "Coordinated development and quality assurance of the bank's mobile application across business, technology, compliance and vendor teams, contributing to 20% user-adoption growth within three months of launch."
+      ],
+      "location": "Accra, Ghana",
+      "organization": "Access Bank (Ghana) Plc",
+      "period": "Jul 2021 - Aug 2022",
+      "title": "Digital Project Analyst"
+    },
+    {
+      "_key": "dpc-support",
+      "_type": "cvRole",
+      "highlights": [
+        "Delivered hardware, software and network support for a national regulator; implemented access controls, backup practices and system hardening, and maintained documentation across more than 50 workstations and servers."
+      ],
+      "location": "Accra, Ghana",
+      "organization": "Ghana Data Protection Commission",
+      "period": "Sep 2020 - Jun 2021",
+      "title": "Information Technology Support Analyst"
+    }
+  ],
+  "headline": "Cybersecurity leadership, cloud security & security architecture",
+  "honors": [
+    "Key Talent Programme, Access Bank - selected by senior management (2026)",
+    "Employee of the Quarter, Access Bank - Q3 2023, Q1 and Q3 2024"
+  ],
+  "languages": [
+    "English",
+    "Akan Twi",
+    "Kasem",
+    "Spanish (beginner)"
+  ],
+  "leadership": [
+    {
+      "_key": "botcamp",
+      "_type": "cvLeadership",
+      "description": "Help run free robotics and AI bootcamps for underrepresented children, especially girls and young people in rural communities.",
+      "organization": "BotCamp",
+      "period": "Current",
+      "title": "Programme Director"
+    },
+    {
+      "_key": "dzobibi",
+      "_type": "cvLeadership",
+      "description": "Co-founded a solar-powered fire-safety initiative focused on real-time detection and response with the Ghana National Fire Service.",
+      "organization": "DZOBIBI",
+      "period": "Current",
+      "title": "Co-founder"
+    },
+    {
+      "_key": "volunteering",
+      "_type": "cvLeadership",
+      "description": "Mobilized more than GHS 250,000 and coordinated health, education and sports initiatives benefiting over 8,970 people across 12 communities in Ghana.",
+      "organization": "Access Bank Ghana",
+      "period": "2022 - Present",
+      "title": "Employee Volunteering Programme Coordinator"
+    },
+    {
+      "_key": "cyberfirst",
+      "_type": "cvLeadership",
+      "description": "Founded and delivered coding, digital-literacy and online-safety sessions for more than 15 young participants.",
+      "organization": "CyberFirst Bootcamp Series",
+      "period": "2023 - Present",
+      "title": "Founder & Lead Facilitator"
+    }
+  ],
+  "profile": {
+    "fullName": "Robert Wevamwo",
+    "linkedInUrl": "https://linkedin.com/in/wevbert",
+    "location": "Accra, Ghana"
+  },
+  "reviewedOn": "2026-10-15",
+  "skills": [
+    {
+      "_key": "architecture",
+      "_type": "cvSkillGroup",
+      "items": [
+        "Security architecture review",
+        "Zero Trust",
+        "Defense in depth",
+        "Google Cloud IAM",
+        "Cloud logging & governance",
+        "Security by design"
+      ],
+      "title": "Architecture & cloud"
+    },
+    {
+      "_key": "operations",
+      "_type": "cvSkillGroup",
+      "items": [
+        "SOC leadership",
+        "SIEM engineering",
+        "Incident response",
+        "Detection engineering",
+        "Vulnerability management",
+        "MITRE ATT&CK"
+      ],
+      "title": "Security operations"
+    },
+    {
+      "_key": "platforms",
+      "_type": "cvSkillGroup",
+      "items": [
+        "CrowdStrike Falcon",
+        "Seceon aiSIEM",
+        "ArcSight",
+        "Securonix",
+        "Microsoft Defender",
+        "CimTrak",
+        "Forescout NAC",
+        "Symantec DLP/SWG",
+        "Infoblox",
+        "Zero Networks"
+      ],
+      "title": "Enterprise platforms"
+    },
+    {
+      "_key": "assurance",
+      "_type": "cvSkillGroup",
+      "items": [
+        "ISO/IEC 27001",
+        "PCI DSS",
+        "SWIFT CSP",
+        "Bank of Ghana CISD",
+        "Executive reporting",
+        "Vendor coordination",
+        "Digital product delivery"
+      ],
+      "title": "Governance & delivery"
+    },
+    {
+      "_key": "tools",
+      "_type": "cvSkillGroup",
+      "items": [
+        "Nessus",
+        "Qualys",
+        "FTK",
+        "Autopsy",
+        "Windows Server",
+        "Active Directory",
+        "Linux",
+        "PowerShell",
+        "Bash"
+      ],
+      "title": "Assessment & systems"
+    }
+  ],
+  "summary": "Cybersecurity professional working across security engineering, SOC operations, cloud security and digital product delivery in regulated financial services. Lead an eight-member SOC and direct security architecture at Access Bank Ghana, translating business priorities and regulatory expectations into practical controls. Combine hands-on technical delivery with executive reporting, team development and community education.",
+  "siteUrl": "https://wevbert.pages.dev"
+}
