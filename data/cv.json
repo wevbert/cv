@@ -126,7 +126,8 @@
       "location": "Accra, Ghana",
       "organization": "Access Bank (Ghana) Plc",
       "period": "Jul 2021 - Aug 2022",
-      "title": "Digital Project Analyst"
+      "title": "Digital Project Analyst",
+      "pdfSummary": "Coordinated mobile-app development and QA across business, technology, compliance and vendors; supported 20% adoption growth within three months of launch."
     },
     {
       "_key": "dpc-support",
@@ -137,7 +138,8 @@
       "location": "Accra, Ghana",
       "organization": "Ghana Data Protection Commission",
       "period": "Sep 2020 - Jun 2021",
-      "title": "Information Technology Support Analyst"
+      "title": "Information Technology Support Analyst",
+      "pdfSummary": "Provided hardware, software and network support; implemented access controls, backups and hardening, and documented more than 50 workstations and servers."
     }
   ],
   "headline": "Cybersecurity leadership, cloud security & security architecture",
@@ -158,7 +160,8 @@
       "description": "Help run free robotics and AI bootcamps for underrepresented children, especially girls and young people in rural communities.",
       "organization": "BotCamp",
       "period": "Current",
-      "title": "Programme Director"
+      "title": "Programme Director",
+      "pdfSummary": "Run free robotics and AI bootcamps for underrepresented children, especially girls and young people in rural communities."
     },
     {
       "_key": "dzobibi",
@@ -166,7 +169,8 @@
       "description": "Co-founded a solar-powered fire-safety initiative focused on real-time detection and response with the Ghana National Fire Service.",
       "organization": "DZOBIBI",
       "period": "Current",
-      "title": "Co-founder"
+      "title": "Co-founder",
+      "pdfSummary": "Co-founded a solar-powered fire detection and response initiative with the Ghana National Fire Service."
     },
     {
       "_key": "volunteering",
@@ -174,7 +178,8 @@
       "description": "Mobilized more than GHS 250,000 and coordinated health, education and sports initiatives benefiting over 8,970 people across 12 communities in Ghana.",
       "organization": "Access Bank Ghana",
       "period": "2022 - Present",
-      "title": "Employee Volunteering Programme Coordinator"
+      "title": "Employee Volunteering Programme Coordinator",
+      "pdfSummary": "Mobilized GHS 250,000+ for health, education and sports initiatives reaching 8,970+ people across 12 Ghanaian communities."
     },
     {
       "_key": "cyberfirst",
@@ -182,7 +187,8 @@
       "description": "Founded and delivered coding, digital-literacy and online-safety sessions for more than 15 young participants.",
       "organization": "CyberFirst Bootcamp Series",
       "period": "2023 - Present",
-      "title": "Founder & Lead Facilitator"
+      "title": "Founder & Lead Facilitator",
+      "pdfSummary": "Delivered coding, digital-literacy and online-safety sessions for more than 15 young participants."
     }
   ],
   "profile": {

@@ -8,7 +8,7 @@ A broad professional CV covering cybersecurity leadership, security architecture
 
 ## Build
 
-The layout is adapted from this repository's original LaTeX template. `cv.tex` is a self-contained generated document; `template.tex` preserves the upstream generic template. The original MIT license and attribution are retained.
+The layout follows [the author's PDF](https://hmemcpy.com/cv.pdf) using this repository's original LaTeX template: Linux Libertine/Biolinum fonts, Font Awesome contact icons, small-cap ruled headings, date columns, and pale-blue keyword tags. `cv.tex` is a self-contained generated document; `template.tex` preserves the upstream generic template. The original MIT license and attribution are retained.
 
 ```sh
 python3 scripts/generate.py
