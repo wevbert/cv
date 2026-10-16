@@ -2,7 +2,7 @@
 
 A broad professional CV covering cybersecurity leadership, security architecture, cloud security, SOC operations and digital product delivery.
 
-- [Read the web CV](https://wevbert.pages.dev/cv)
+- [View the PDF](https://wevbert.pages.dev/cv)
 - [Download the PDF](https://wevbert.pages.dev/cv.pdf)
 - [Portfolio](https://wevbert.pages.dev)
 
@@ -19,23 +19,9 @@ Alternatively, compile `cv.tex` with LuaLaTeX twice (locally or on Overleaf) to 
 
 ## Content editing
 
-The portfolio's Sanity Studio is the content source:
+Edit `cv.tex` directly for document revisions, or update `data/cv.json` and run `python3 scripts/generate.py` to regenerate the source. Regeneration replaces `cv.tex`, so preserve any direct layout edits in the generator first.
 
-1. Edit **CV** for the summary, roles, education, skills, leadership, recognition and languages.
-2. Edit **Certifications** for referenced credentials; the CV selects which ones to include.
-3. Edit **Profile** for the name, location, LinkedIn link and downloadable PDF.
-4. Publish, then rebuild the portfolio (the static web page refreshes on deployment).
-
-To refresh this repository from published content and rebuild the PDF:
-
-```sh
-python3 scripts/generate.py --refresh
-tectonic cv.tex
-```
-
-Review the PDF, upload it to **Profile → CV file**, and copy it to the portfolio's `frontend/public/cv.pdf` to update the stable download URL. Commit the updated snapshot, TeX and PDF to keep the fork reproducible. Publishing text in Sanity does not automatically regenerate the PDF.
-
-`sanity.config.json` contains public project identifiers only. No authentication is needed to read the published public dataset. The generator validates the fetched content before replacing the local snapshot and escapes LaTeX special characters. With no `--refresh`, builds use the checked-in snapshot and can run without Sanity access.
+Compile and review the PDF, then copy `cv.pdf` to the portfolio's `frontend/public/cv.pdf` and deploy. Both `/cv` and `/cv.pdf` serve the document from the portfolio domain. The CV has no Sanity publishing or asset-hosting dependency.
 
 ## Content provenance
 
